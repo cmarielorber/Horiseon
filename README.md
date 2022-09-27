@@ -1,9 +1,6 @@
 # Horiseon
 
-HW 1
-
 Homework Challenge Week 1
-
 
 ## Description
 
@@ -22,7 +19,6 @@ Coming Soon
 ## Link
 
 https://cmarielorber.github.io/Horiseon/
-
 
 ## Credits
 
