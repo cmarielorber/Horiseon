@@ -1,5 +1,5 @@
 # Horiseon
-HW 1
+Homework Challenge Week 1
 
 ## Description
 
@@ -9,7 +9,7 @@ I learned to take this slow and steady. It's best practice to comment on your ch
 
 ## Screenshot
 
-N/A
+Coming Soon
 
 ## Link
 
@@ -19,7 +19,3 @@ https://cmarielorber.github.io/Horiseon/
 ## Credits
 
 Bootcamp Team and Tutors
-
-## License
-
-Please refer to the LICENSE in the repo.
