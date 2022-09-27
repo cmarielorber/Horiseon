@@ -8,10 +8,6 @@ This is the first bootcamp Challenge. I was tasked with "refactoring" the origin
 
 I learned to take this slow and steady. It's best practice to comment on your changes as this decreases your chance of STAYING lost. This is tedious work and a constant trial and error. What I love the most about this is that code doesn't lie and teamwork is everything. 
 
-## Installation
-
-N/A
-
 ## Screenshot
 
 Coming Soon
